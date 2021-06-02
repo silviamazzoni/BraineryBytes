@@ -3,4 +3,5 @@ matplotlib==3.*
 seaborn==0.10.1
 pandas
 openseespy
-eSEESminiPy ~=0.0.24
+eSEESminiPy ~=0.0.29
+scipy.linalg
