@@ -4,4 +4,4 @@ seaborn==0.10.1
 pandas
 openseespy
 eSEESminiPy ~=0.0.29
-scipy.linalg
+scipy
