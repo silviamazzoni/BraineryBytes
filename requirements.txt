@@ -7,5 +7,6 @@
 matplotlib ~=3.2.1
 numpy ~=1.18.5
 pandas ~=1.0.4
-eSEESminiPy ~=0.0.24
+eSEESminiPy ~=0.0.29
 openseespy ~=3.2.2.10
+scipy.linalg
