@@ -9,5 +9,5 @@ numpy ~=1.18.5
 pandas ~=1.0.4
 eSEESminiPy
 BraineryBytes
-openseespy ~=3.2.2.10
+openseespy
 scipy
